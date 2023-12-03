@@ -2,6 +2,8 @@
 
 > An calculator site "+ - * /"
 
+[image](calculator.png)
+
 ## Objective
 
 The goal of this project is to combine the three Web programming languages: HTML, CSS and PHP. The objectives are:
