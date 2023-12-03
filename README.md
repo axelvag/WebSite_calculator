@@ -2,7 +2,7 @@
 
 > An calculator site "+ - * /"
 
-[image](calculator.png)
+![image](calculator.png)
 
 ## Objective
 
