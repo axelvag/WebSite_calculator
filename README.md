@@ -24,7 +24,7 @@ $ git clone https://github.com/axelvag/WebSite_IP_address_calculator.git WebSite
 # Access
 $ cd WebSite_IP_address_calculator
 
-# Put it in a php host/manager/server like 000WebHost or Apache
+# Put it in a php host/manager/server like 000WebHost, Apache or Nginx
 
 # DADAM you have your website online
 ```
